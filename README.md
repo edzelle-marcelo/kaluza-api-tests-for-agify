@@ -10,7 +10,8 @@ Contents
 - .github/workflows/ci.yml — GitHub Actions workflow that runs tests on push / PR.
 
 Prerequisites
-- Node.js (recommended v18.x) and npm
+- Node version: `v16.15.1`
+- NPM version: `8.11.0`
 - Git (to run the repository commands)
 
 Quick start (local)
